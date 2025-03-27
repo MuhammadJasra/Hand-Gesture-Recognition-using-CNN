@@ -41,4 +41,4 @@ The dataset used is **LeapGestRecog**, a collection of hand gesture images categ
 
 ---
 
-Let me know if you need any further modifications! 🚀😊  
+
